@@ -16,7 +16,7 @@
 - 📫 How to reach me **[vigneshn6236@gmail.com](mailto:vigneshn6236@gmail.com)**
 
 
-- 📄 Know about my experiences [https://github.com/Vignesh6236/resume](https://github.com/Vignesh6236/resume)
+- 📄 Know about my experiences [https://github.com/Vignesh6236/resume](https://github.com/Vignesh6236/resume/blob/main/Vignesh%20Web%20Dev%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
