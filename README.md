@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Node.JS, Express.JS, Mongo.DB, Tailwind CSS, React.JS, Redux, Next.JS**
 
-- 👨‍💻 All of my projects are available at [github.com/vignesh6236](github.com/vignesh6236)
+- 👨‍💻 All of my projects are available at [?tab=repositories](?tab=repositories)
 
 - 💬 Ask me about **Web Development, Python, Full stack development.**
 
-- 📫 How to reach me **vigneshn6236@gmail.com**
+- 📫 How to reach me **mailto:vigneshn6236@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Vignesh6236/resume](https://github.com/Vignesh6236/resume)
 
