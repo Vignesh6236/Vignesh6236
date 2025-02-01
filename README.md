@@ -7,13 +7,14 @@
 
 
 
+- 🌐 Visit my protfolio at [vignesh-n.netlify.app](https://vignesh-n.netlify.app/)
 
 - 🔭 I’m currently working on **many full stack web development projects**
 
 - 🌱 I’m currently learning **React.native and Typescript**
 
-- 👨‍💻 All of my projects are available at [?tab=repositories](?tab=repositories)
-
+- 👨‍💻 All of my projects are available at [Github](?tab=repositories)
+  
 - 💬 Ask me about **MERN, REST APIs, UI/UX, Next.js**
 
 - 📫 How to reach me **mailto:vigneshn6236@gmail.com**
